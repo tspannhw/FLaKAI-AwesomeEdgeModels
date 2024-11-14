@@ -12,6 +12,9 @@ Edge AI Models
 
 * Phi3
 
+See:  https://ollama.com/search?q=edge%20nodels
+
+See:  https://huggingface.co/search/full-text?q=edge+models&type=model
 
 #### Articles
 
